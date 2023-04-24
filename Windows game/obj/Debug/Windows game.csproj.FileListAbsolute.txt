@@ -1,0 +1,11 @@
+C:\Users\leandro\source\repos\Windows game\Windows game\bin\Debug\Windows game.exe.config
+C:\Users\leandro\source\repos\Windows game\Windows game\bin\Debug\Windows game.exe
+C:\Users\leandro\source\repos\Windows game\Windows game\bin\Debug\Windows game.pdb
+C:\Users\leandro\source\repos\Windows game\Windows game\obj\Debug\Windows game.csproj.AssemblyReference.cache
+C:\Users\leandro\source\repos\Windows game\Windows game\obj\Debug\Windows game.csproj.SuggestedBindingRedirects.cache
+C:\Users\leandro\source\repos\Windows game\Windows game\obj\Debug\Windows_game.Form1.resources
+C:\Users\leandro\source\repos\Windows game\Windows game\obj\Debug\Windows_game.Properties.Resources.resources
+C:\Users\leandro\source\repos\Windows game\Windows game\obj\Debug\Windows game.csproj.GenerateResource.cache
+C:\Users\leandro\source\repos\Windows game\Windows game\obj\Debug\Windows game.csproj.CoreCompileInputs.cache
+C:\Users\leandro\source\repos\Windows game\Windows game\obj\Debug\Windows game.exe
+C:\Users\leandro\source\repos\Windows game\Windows game\obj\Debug\Windows game.pdb
